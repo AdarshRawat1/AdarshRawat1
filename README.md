@@ -1,4 +1,9 @@
-Hoi !  <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=ec9783&size=30&center=true&vCenter=true&width=550&height=70&lines=Hello+World+👋🏻+I'm+Adarsh;+Open+Source+Enthusiast+☀;Full+Stack+Developer+💻;"> <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
+</p>
+
+![-----------------------------------------------------](https://user-images.githubusercontent.com/100958893/224763817-fbf658c1-cace-42dd-8fad-b30f108a5b39.png)
+
 
 ![Hello](https://user-images.githubusercontent.com/100958893/224530192-c36d0487-48c1-41a9-8b25-5404693bae83.gif)
 
