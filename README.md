@@ -30,7 +30,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=AdarshRawat1&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats"> 
 <img align='right' src="https://media.giphy.com/media/u5BzptR1OTZ04/giphy.gif" width="300" height="270" />
   
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshRawat1&layout=compact&theme=radical" alt="top languages used">
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshRawat1&layout=compact&theme=radicalPAT_1 " alt="top languages used">
 
 </p>
 
