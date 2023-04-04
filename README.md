@@ -14,9 +14,10 @@
 
 ---
 - 🌱 A development newbie, getting started with open source and I'm already lovin' it!
-- 📚 Currently working on my DSA and problem solving skills.
 - 📫 How to reach me: adarshrawat146@gmail.com
 - ⚡ Fun fact: My code is like a toddler - it doesn't always do what it's supposed to, but it's cute and I love it anyway.
+
+<!--- - 📚 Currently working on my DSA and problem solving skills. ---> 
 ---
 <p align="center"> 
   Visitors count:<br>
