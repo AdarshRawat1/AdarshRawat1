@@ -25,10 +25,17 @@
 </p>
 
 <h2>GitHub Stats</h2>
+
+### Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=AdarshRawat1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 <p><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdarshRawat1&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats"> 
 <img align='right' src="https://media.giphy.com/media/u5BzptR1OTZ04/giphy.gif" width="300" height="270" />
   
 <img src ="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdarshRawat1&layout=compact&theme=radical" alt="top languages used">
+
+
 
 </p>
 
