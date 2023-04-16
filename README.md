@@ -19,10 +19,6 @@
 
 <!--- - 📚 Currently working on my DSA and problem solving skills. ---> 
 ---
-<p align="center"> 
-  Visitors count:<br>
-  <img src="https://profile-counter.glitch.me/AdarshRawat1/count.svg" />
-</p>
 
 <h2>GitHub Stats</h2>
 
@@ -34,13 +30,15 @@
 <img align='right' src="https://media.giphy.com/media/u5BzptR1OTZ04/giphy.gif" width="300" height="270" />
   
 <img src ="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdarshRawat1&layout=compact&theme=radical" alt="top languages used">
-
-
-
 </p>
 
 
 <a href="https://www.linkedin.com/in/adarsh-rawat/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/100958893/224526698-3244620f-05d3-489a-9318-f4b1fec4d8ea.svg" alt="Adarsh-Rawat" height="30" width="40" /></a>
+<p align="center"> 
+  Visitors count:<br>
+  <img src="https://profile-counter.glitch.me/AdarshRawat1/count.svg" />
+</p>
+
 
 <!---
 Adarshrawat1/AdashRawat1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
