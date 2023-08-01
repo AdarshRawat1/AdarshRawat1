@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=ec9783&size=30&center=true&vCenter=true&width=550&height=70&lines=Hello+World+👋🏻+I'm+Adarsh;+Open+Source+Enthusiast+☀;Full+Stack+Developer+💻;"> <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
+<!---<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=ec9783&size=30&center=true&vCenter=true&width=550&height=70&lines=Hello+World+👋🏻+I'm+Adarsh;+Open+Source+Enthusiast+☀;Full+Stack+Developer+💻;"> 
 </p>
 
 ![-----------------------------------------------------](https://user-images.githubusercontent.com/100958893/224763817-fbf658c1-cace-42dd-8fad-b30f108a5b39.png)
@@ -7,8 +7,8 @@
 <p align="center">
   नमस्ते (Namaste)
 </p>
-
-## Hi, I am Adarsh! Glad to see you here! 👋
+--->
+## Hi, I am Adarsh! Glad to see you here! <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
 I am a self taught Full Stack Developer. I am a tech enthusiast & an open-source person who is currently learning cloud native technologies. I am always open to collaborate on projects. You can connect with me here:
 
 
@@ -17,7 +17,6 @@ I am a self taught Full Stack Developer. I am a tech enthusiast & an open-source
 
 <!---[![Twitter Badge](https://img.shields.io/badge/-AbhishekKumar-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/AbhishekKtwt)](https://twitter.com/AbhishekKtwt)
 --->
-
 ## ⚡ Technologies
 
 ### Language :
