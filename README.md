@@ -94,6 +94,9 @@ I am a self taught Full Stack Developer. I am a tech enthusiast & an open-source
   <img src="https://profile-counter.glitch.me/AdarshRawat1/count.svg" />
 </p>
 <br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarshrawat1" alt="Adarsh Rawat trophy" /></a> </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=THANKS+FOR+YOUR+VISIT!!!"
 </p>
